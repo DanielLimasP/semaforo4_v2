@@ -1,0 +1,6 @@
+Warning[205] E:\SISTEMAS PROGRAMABLES\PROYECTOS\SEMAFORO4_V2\SEMAFORO4_V2.ASM 1 : Found directive in column 1. (list)
+Message[302] E:\SISTEMAS PROGRAMABLES\PROYECTOS\SEMAFORO4_V2\SEMAFORO4_V2.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] E:\SISTEMAS PROGRAMABLES\PROYECTOS\SEMAFORO4_V2\SEMAFORO4_V2.ASM 83 : Using default destination of 1 (file).
+Message[305] E:\SISTEMAS PROGRAMABLES\PROYECTOS\SEMAFORO4_V2\SEMAFORO4_V2.ASM 99 : Using default destination of 1 (file).
+Message[305] E:\SISTEMAS PROGRAMABLES\PROYECTOS\SEMAFORO4_V2\SEMAFORO4_V2.ASM 120 : Using default destination of 1 (file).
+Message[305] E:\SISTEMAS PROGRAMABLES\PROYECTOS\SEMAFORO4_V2\SEMAFORO4_V2.ASM 136 : Using default destination of 1 (file).
